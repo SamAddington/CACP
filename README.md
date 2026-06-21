@@ -383,22 +383,6 @@ The reproduction harness implements the following CACP design ideas:
 
 ---
 
-## Artifact Review Checklist
-
-Before making the repository public or submitting it for artifact review:
-
-- [ ] Confirm the dataset provenance status.
-- [ ] Complete `AUTHOR_CERTIFICATION_FORM.md`.
-- [ ] Verify that `python scripts/validate_claims.py` runs successfully.
-- [ ] Verify that file paths in `CLAIM_TO_EVIDENCE_MAPPING.csv` match the repository structure.
-- [ ] Confirm that no private API keys, analyst names, student data, institutional secrets, or real sensitive cyber logs are included.
-- [ ] Add a license.
-- [ ] Add a citation file if desired.
-- [ ] Tag a release corresponding to the submitted paper version.
-- [ ] Archive the release on Zenodo, OSF, or another artifact repository if required by the venue.
-
----
-
 ## Suggested Citation
 
 ```bibtex
