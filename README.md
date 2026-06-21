@@ -420,6 +420,5 @@ The prompt-injection materials are included only for defensive evaluation and sh
 
 ## Contact
 
-For questions about the paper, artifact, or presentation demo, contact the repository maintainer at Samuel.Addington@csulb.edu 
-2.
+For questions about the paper, artifact, or presentation demo, contact the repository maintainer at Samuel.Addington@csulb.edu
 
