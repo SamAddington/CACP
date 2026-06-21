@@ -1,0 +1,14 @@
+paper_model_version_status: not disclosed in attached paper
+reproduction_modeling_choice: no live LLM call; deterministic simulator models 1.2s
+  mean LLM inference latency reported in the paper
+simulated_model_name: cacp-deterministic-reproduction-simulator-v0.1
+random_seed: 20260124
+llm_inference_latency_ms_modeled: 1200
+signature_algorithm: ed25519
+hash_algorithm: sha256
+python_version: 3.13.5 (main, May  5 2026, 21:05:52) [GCC 14.2.0]
+platform: Linux-4.4.0-x86_64-with-glibc2.41
+package_version: 0.1.0
+git_commit: not-a-git-repository
+reproducibility_warning: Raw records are synthetic/reconstructed support artifacts,
+  not recovered originals from the anonymous submission.

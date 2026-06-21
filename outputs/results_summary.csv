@@ -1,0 +1,2 @@
+mtta_B0_unstructured_logs_sec,mtta_B1_structured_no_commitments_sec,mtta_CACP_decision_cards_sec,mtta_reduction_CACP_vs_B0_percent,injection_attempts,out_of_policy_executions,out_of_policy_execution_rate,coordination_latency_mean_ms,modeled_llm_inference_mean_ms,coordination_latency_as_percent_of_llm_latency
+8.6,6.55,4.9,43.02,100,0,0.0,22.0,1200.0,1.833
